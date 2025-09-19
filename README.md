@@ -8,7 +8,7 @@ html lang="en">
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  gtag('js', new Date(), { 'debug_mode':true });
 
   gtag('config', 'G-ZTDSKKP9FG');
 </script>
