@@ -3,6 +3,15 @@ html lang="en">
 <div style="font-weight:800">SmartFlex X</div>
 <div style="font-size:13px;color:var(--muted)">From 128GB • 8GB RAM</div>
 </div>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZTDSKKP9FG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZTDSKKP9FG');
+</script>
 <div class="price">₹39,999</div>
 </div>
 <div style="margin-top:auto;display:flex;gap:8px;margin-top:12px">
